@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGInventory", "RPGInventory2Net\RPGInventory.csproj", "{79C4E956-75F1-45EA-AA14-BBC52DE72608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGInventory.Tests", "RPGInventory.Tests\RPGInventory.Tests.csproj", "{A4BFC938-7C5F-4CB3-A67C-32E553925383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C4E956-75F1-45EA-AA14-BBC52DE72608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C4E956-75F1-45EA-AA14-BBC52DE72608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C4E956-75F1-45EA-AA14-BBC52DE72608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C4E956-75F1-45EA-AA14-BBC52DE72608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BFC938-7C5F-4CB3-A67C-32E553925383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BFC938-7C5F-4CB3-A67C-32E553925383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BFC938-7C5F-4CB3-A67C-32E553925383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BFC938-7C5F-4CB3-A67C-32E553925383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBC3163-A332-4730-BD73-355B0E0B1A2A}
+	EndGlobalSection
+EndGlobal
